@@ -13,7 +13,7 @@
     - git add score.html  //  individual file 
     - git add . // all files at once
 4. git commit -m "hint/message"
-5. git push
+5. git push --set-upstream origin master
 
    <!-- To clone -->
  6. git clone https://github.com/sagartmg2/bhadra-2
